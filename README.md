@@ -1,4 +1,4 @@
-# git-fishbowl
+# `GIT-FISHBOWL`
 
 An asynchronous, zero-dependency command-line interface (CLI) telemetry tool designed for real-time monitoring of GitHub repository health. 
 
@@ -105,9 +105,5 @@ python -m flake8 src/ run.py
 
 # Execute automated code reformatting
 python -m black src/ run.py
-
-```
-
-```
 
 ```
